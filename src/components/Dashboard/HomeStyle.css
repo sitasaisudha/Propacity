@@ -1,0 +1,15 @@
+body{
+    background-color: #03123D;
+    width: 85.375rem;
+height: 43.5rem;
+}
+.navbar{
+    display: flex;
+width: 85.375rem;
+padding: 1.25rem;
+justify-content: space-between;
+align-items: center;
+}
+.home{
+    padding: 3rem  10rem;
+}
